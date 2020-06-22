@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592817494 source:c:\users\stanc\onedrive\c++\tema 14\main.cpp
+	<iostream>
+	<fstream>
+
